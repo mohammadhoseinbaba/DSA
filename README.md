@@ -2,14 +2,15 @@ DSA - Data Structure and Algorithm Learning in JavaScript
 
 Welcome to the DSA repository! This repository is designed to help you understand and implement fundamental Data Structures and Algorithms (DSA) using JavaScript. Whether you're a beginner or looking to solidify your knowledge, this repository aims to guide you through the core concepts and practical applications of DSA in coding.
 Table of Contents
+## Table of Contents
 
-    About
-    Features
-    Getting Started
-    Folder Structure
-    Concepts Covered
-    Contributing
-    License
+- [About](#about)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Folder Structure](#folder-structure)
+- [Concepts Covered](#concepts-covered)
+- [Contributing](#contributing)
+- [License](#license)
 
 About
 
