@@ -26,7 +26,7 @@ Getting Started
 
     Clone the repository:
 
-git clone https://github.com/your-username/DSA.git
+git clone https://github.com/Mohammadhoseinbaba/DSA.git
 cd DSA
 
 Explore the code: Open any of the files to see the algorithms and data structures implemented in JavaScript.
