@@ -37,8 +37,9 @@ Run the code: Make sure you have Node.js installed on your system.
 
     Learn & Experiment: Tweak the code, add your test cases, and try new variations!
 
-Folder Structure
+## Folder Structure
 
+```plaintext
 DSA/
 ├── README.md
 ├── Arrays/
