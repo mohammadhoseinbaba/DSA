@@ -18,3 +18,30 @@ function findmax(arr){
   return max
 }
 console.log('The max number is :', findmax(numbers))
+//calculation the sum of all elements in the array
+function sumArray(arr){
+  let sum=0;
+  arr.foreach((number)=>{
+    sum += number;
+  })
+  return sum ;
+}
+console.log('sum of array:',sumArray(numbers))
+//check if an element exist in the array
+function contain(arr,target){
+for(let i=0 ; i<arr.length ; i++ ){
+  if(arr[i]===target){
+    return true;
+  }
+}
+  return false
+}
+console.log('Array contain 30:',contain(numbers,30));
+console.log('Array contain 100:',contain(numbers,100));
+//Linear Search 
+
+
+
+
+
+
