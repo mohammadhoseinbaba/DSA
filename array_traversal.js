@@ -38,10 +38,12 @@ for(let i=0 ; i<arr.length ; i++ ){
 }
 console.log('Array contain 30:',contain(numbers,30));
 console.log('Array contain 100:',contain(numbers,100));
-//Linear Search 
-
-
-
-
+ //Time Complexity 
+//0(1) -constant time
+function getFisrtElement(arr){
+  return arr[0]}
+//0(n) - Linear time
+function printAllElement(arr){
+  arr.foreach((Element)=>console.log(Element))
 
 
